@@ -4,4 +4,5 @@ config snmp 'template'
 	option oid '0'
 	option port '0'
 	option community '0'
-
+	option period '0'
+	option timeout '0'
